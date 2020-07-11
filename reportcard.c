@@ -2,7 +2,7 @@
 int main()
 {
 int mark=0;
-printf("Enter the mark of student:");
+printf("Enter the mark of student\n:");
 scanf("%d",&mark);
 
 if(mark>=85 && mark<=100)
